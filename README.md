@@ -1,3 +1,5 @@
+![](ipizza.svg)
+
 # iPizza
 
 Este é o repositório para a marca do iPizza.
