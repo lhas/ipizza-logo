@@ -1,4 +1,4 @@
-![](https://cdn.rawgit.com/lhas/ipizza-logo/master/ipizza.svg)
+![](https://cdn.rawgit.com/lhas/ipizza-logo/master/ipizza.png)
 
 # iPizza
 
